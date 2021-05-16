@@ -13,17 +13,3 @@ img {
     transform: translate(-50%, -50%);
 
 }
-@media only screen and (max-width: 320px) {
-img{
-    max-width: 100%;
-    min-width: 750px;
-    height: auto;
-
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-}
-}
